@@ -2,7 +2,7 @@ package resolucao_filosofos;
 
 public class Mesa {
 	
-	final static int PENSANDO = 1;
+	   final static int PENSANDO = 1;
 	   final static int COMENDO = 2;
 	   final static int FOME = 3;
 	   final static int NR_FILOSOFOS = 5;
